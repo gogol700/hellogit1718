@@ -62,4 +62,12 @@
         <github>FamousNest</github>
         <group>Student</group>
     </student>
+    <student>
+        <firstname>Maciej</firstname>
+        <lastname>Dominik</lastname>
+        <email>maciejdominik94@gmail.com</email>
+        <github>MaciejDominik</github>
+        <group>Student</group>
+    </student>
+
 </students>
