@@ -83,4 +83,11 @@
         <github>karolskoczyk</github>
         <group>KrDZIs3011Si</group>
     </student>
+	<student>
+        <firstname>Dmytro</firstname>
+        <lastname>Shtunder</lastname>
+        <email>dmytro.shtunder@gmail.com</email>
+        <github>gogol700</github>
+        <group>KrDZIs3012Si</group>
+    </student>
 </students>
